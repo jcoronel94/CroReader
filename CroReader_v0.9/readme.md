@@ -1,7 +1,6 @@
-# Instructions
+# JAR download instructions
 
-To execute CroReader locally: 
-1. go to the distros folder
+1. go to the distro folder
 2. click on CroReader.jar
 3. click view raw or download
 4. Download will start, open when complete
