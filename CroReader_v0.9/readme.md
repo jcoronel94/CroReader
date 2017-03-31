@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 To execute CroReader locally: 
 1. go to the distros folder
