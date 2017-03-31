@@ -1,6 +1,10 @@
-# CroReader
-# General Information for `CroReader`
-## Explanation:
-Current project allows user to open up multiple chromatograms and view. Chromatograms can be switched between and display can be zoomed in or out. There is also an option to export the current chromatogram as a PDF file. Currently we are working on completing a peak finder that is capable of filtering out false positives and that is more effective than current closed source alternatives such as 4peaks and finchTV   
+## Author:
 
-## Important To Do: to check whether all the jar libaries in the lib folder can be redistributed, if yes, what license info we need to display, if not, provide the source link instead of the jar directly.
+Completed by Jonathan Coronel in fulfillment of requirements for Degree of Master's of Science, Computational Mathematics under advisement of Yahzou Sun, Ph.D.    
+
+
+# CroReader
+CroReader is an open source ABIF file tool that visualizes and processes trace data with automated high-confidence region extraction and file format conversion.
+
+# Purpose
+Although Next generation Sequencing technologies have been adopted in biomedical and life science fields, Sanger Capillary Sequencing methods are still widely used. Unfortunately, developers have shifted their attention on creating NGS tools and have decreased creation and maintenance of tools compatible with ABIF files. The goal of CroReader is to provide an up to date bioinformatic tool compatible with ABIF files with algorithms capable of dectecting and extracting high quality regions in either FASTA or FASTQ format. 
