@@ -20,16 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-REDISTRUBUTED LIBRARIES
- ----------------------------------------------------------------------------------------------------------------------------------
-   
-iText-2.1.7.jar (http://www.lowagie.com/iText/)
-is an external library used in this product under the Mozilla public license
-http://www.apache.org/licenses/LICENSE-2.0
-  
-----------------------------------------------------------------------------------------------------------------------------------------      
-jlfgr-1_0.jar (http://www.oracle.com/technetwork/java/index-138612.html)
-is an external library used in this product under the Oracle's License for Software Graphics Artwork
-
-http://download.oracle.com/otn-pub/java/licenses/Software_Icon_License__943_2012.pdf?AuthParam=1490983142_645480289137b57a04bfd8b1315c47a4
